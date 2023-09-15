@@ -21,6 +21,7 @@ Click to see the website 👇:
 <img width="947" alt="2" src="https://github.com/MortezaIsvand/game-hub-yu2/assets/107297151/b518ccaf-b8f8-4fb2-b7b6-d8c16107bf9f">
 
 
+<img width="960" alt="5" src="https://github.com/MortezaIsvand/game-hub-yu2/assets/107297151/a952e439-a8b4-4f89-afb2-5e36edb1c24a">
 
 ## Technologies
 - React

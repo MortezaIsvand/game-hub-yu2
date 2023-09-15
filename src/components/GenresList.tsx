@@ -10,6 +10,7 @@ const GenresList = () => {
   if (error) throw error;
   return (
     <div className="flex flex-col gap-4 max-sm:hidden">
+      <h2 className="font-bold text-xl">Genres</h2>
       {data?.results.map((genre) => (
         <button
           className="flex gap-2 items-center text-left"

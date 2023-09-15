@@ -9,7 +9,7 @@ const GenreSelector = () => {
   return (
     <select
       onChange={(event) => setGenreId(parseInt(event.target.value))}
-      className="focus:outline-none shadow-2xl"
+      className="focus:outline-none shadow-2xl sm:hidden"
     >
       <option value="">--Select Genre--</option>
       {genres?.results.map((genre) => (

@@ -6,7 +6,18 @@ import InfiniteScroll from "react-infinite-scroll-component";
 
 const GameGrid = () => {
   const { data, isLoading, error, hasNextPage, fetchNextPage } = useGames();
-  if (error) throw error;
+  if (error)
+    return (
+      <div className="mb-10">
+        <p className="bg-red-700 p-2 text-white font-bold text-3xl ">
+          استفاده کنید <span>VPN</span> برای دیدن بازی ها از
+        </p>
+        <p>
+          استفاده میکند <span>rawg.io</span> سایت<span>API</span> چون این وبسایت
+          از
+        </p>
+      </div>
+    );
   if (isLoading) return null;
   const skeletons = [];
   for (let i = 1; i < 20; i++) {

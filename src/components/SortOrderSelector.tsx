@@ -8,7 +8,7 @@ const SortOrderSelector = () => {
     { value: "-added", label: "Date added" },
     { value: "name", label: "Name" },
     { value: "-released", label: "Released date" },
-    { value: "-metacritic", label: "Popularite" },
+    { value: "-metacritic", label: "Popularity" },
     { value: "-rating", label: "Average rating" },
   ];
 

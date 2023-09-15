@@ -4,7 +4,23 @@
 This project is a dynamic project powered by the rawg.io API, Zustand, React Query, and React Router DOM. It provides users with a seamless gaming experience, allowing them to explore, search, and view details of various games. The project efficiently manages state, making it easy for users to navigate and interact with different game features.
 
 ## Demo
+
+Click to see the website 👇:
 - [game-hub-ls2.vercel.app]( https://game-hub-ls2.vercel.app)
+
+
+
+<img width="960" alt="1" src="https://github.com/MortezaIsvand/game-hub-yu2/assets/107297151/6beaa249-5c04-47f6-8fbf-d62e3952cab6">
+
+
+
+<img width="960" alt="4" src="https://github.com/MortezaIsvand/game-hub-yu2/assets/107297151/2efaf168-d742-464f-b02b-ab7711abaa19">
+
+
+
+<img width="947" alt="2" src="https://github.com/MortezaIsvand/game-hub-yu2/assets/107297151/b518ccaf-b8f8-4fb2-b7b6-d8c16107bf9f">
+
+
 
 ## Technologies
 - React
